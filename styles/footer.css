@@ -1,0 +1,12 @@
+body {
+  border: 1px solid black;
+
+}
+footer {
+  border: 1px solid black;
+  height: auto;
+  width: 100%;
+  text-align: center;
+  background-color: cadetblue;
+
+}

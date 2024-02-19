@@ -1,0 +1,24 @@
+body {
+  margin: 0%;
+}
+
+.middle-page {
+  height: 100%;
+  /* width: 100%; */
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
+@media (max-width: 425px) {
+  .middle-page {
+    /* margin-right: 20px; */
+  }
+}
+
+@media (min-width: 992px) {
+  .middle-page {
+    width: 100%;
+  }
+}
